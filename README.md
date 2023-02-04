@@ -15,24 +15,27 @@ Mata Kuliah : Bahasa Pemograman
    Bukalah situs resmi dari git itu sendiri yaitu git-scm.com
 2. Setelah itu langsung saja mendownloadnya dengan cara memilih
    terlebih dahulu yang sesuai dengan laptop/pc yang digunakan.
+
    Jika itu 32bit silahkan download 32, begitu juga jika 64bit.
    Bisa langsung klik dan akan terdownload secara otomatis.
 
- ![Gambar 1](gambar/1.png)
+ ![Gambar](gambar/1.png)
 
 3. Setelah instalisasi terbuka, bisa langsung membuka command prompt
    pada menu windows dan melakukan pengecekan versi dari git kalian
    dengan mengetik syntax: git --version
 4. Jika sudah mendapat tampilan seperti gambar dibawah ini artinya git telah berhasil terinstall.
 
-![Gambar 2](gambar/2.png)
+![Gambar](gambar/2.png)
 
 5. Selanjutnya melakukan konfigurasi saat pertama kali menggunakan git.
-   Hal ini agar tidak gagal saat melakukan commit. Dengan masukan perintah berikut :
+   Hal ini agar tidak gagal saat melakukan commit. Dengan mengetik syntax:
 
-![Gambar 3](gambar/3.png)
+![Gambar](gambar/3.png)
 
 Masukan email dan username
+
+![Gambar](gambar/15.png)
 
 ## LANGKAH AWAL MENGGUNAKAN GITHUB
 # Login akun Github
@@ -50,7 +53,7 @@ Jika sudah berhasil regist, tampilannya akan seperti dibawah ini :
 1. LogIn akun github
 2. Kemudian pilih dibagian start a project,
    atau bisa juga dengan menekan lambang (+) pada pojok bagian kanan atas.
-3. Setelah itu tekan New Repository
+3. Setelah itu pilih menu New Repository
 
 ![Gambar 6](gambar/6.png)
 
@@ -84,7 +87,7 @@ Jika sudah berhasil regist, tampilannya akan seperti dibawah ini :
 
 ![Gambar](gambar/11.png)
 
-5. Setelah cloning selesai, masukan perintah syntax : cd '(nama folder yang tadi dicloning)/'
+5. Setelah cloning selesai, masukan perintah syntax : cd (nama folder yang tadi dicloning)/
    untuk masuk kedalam folder yang telah dicloning.
 
 ![Gambar](gambar/12.png)
@@ -93,12 +96,12 @@ Jika sudah berhasil regist, tampilannya akan seperti dibawah ini :
    Text Editor (Sublime Text, Notepad, Notepad+++, Visual Studio Code).
 7. Setelah mengedit, pastikan hasil editan tersimpan.
 8. Langkah selanjutnya kembali membuka App GitBash dan masukan perintah
-   syntax : 'git add .'
+   syntax: git add .
 9. Selanjutnya melakukan commit yang dimana fungsi commit adalah untuk menyimpan perubahan
    yang dilakukan, tetapi tidak terjadi perubahan pada remote repository.
-   Caranya masukan syntax : 'git commit -m "keterangan perubahan apa yang dilakukan"'.
+   Caranya masukan syntax : git commit -m "keterangan perubahan apa yang dilakukan".
 10. Setelah git commit selesai, melakukan Git Push yang dimana berfungsi untuk mengirimkan
-   perubahan file yang telah dicommit ke remote repository. Caranya masukan syntax : 'git push'
+   perubahan file yang telah dicommit ke remote repository. Caranya masukan syntax: git push
    
 ![Gambar](gambar/13.png)
 
