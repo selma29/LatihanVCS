@@ -23,13 +23,13 @@ Mata Kuliah : Bahasa Pemograman
 
 3. Setelah instalisasi terbuka, bisa langsung membuka command prompt
    pada menu windows dan melakukan pengecekan versi dari git kalian
-   dengan mengetik syntax: git --version
+   dengan mengetik code: git --version
 4. Jika sudah mendapat tampilan seperti gambar dibawah ini artinya git telah berhasil terinstall.
 
 ![Gambar](gambar/2.png)
 
 5. Selanjutnya melakukan konfigurasi saat pertama kali menggunakan git.
-   Hal ini agar tidak gagal saat melakukan commit. Dengan mengetik syntax:
+   Hal ini agar tidak gagal saat melakukan commit. Dengan mengetik code:
 
 ![Gambar](gambar/3.png)
 
@@ -83,25 +83,25 @@ Jika sudah berhasil regist, tampilannya akan seperti dibawah ini :
 ![Gambar](gambar/10.png)
 
 4. Setelahnya pop Up Command Promp (CMD) akan terbuka. Pada proses ini kita akan melakukan
-   download file repository yang tadi dibuat, dengan menggunakan syntax : git clone "link URL Github"
+   download file repository yang tadi dibuat, dengan menggunakan code: git clone "link URL Github"
 
 ![Gambar](gambar/11.png)
 
-5. Setelah cloning selesai, masukan perintah syntax : cd (nama folder yang tadi dicloning)/
+5. Setelah cloning selesai, masukan perintah code: cd (nama folder yang tadi dicloning)/
    untuk masuk kedalam folder yang telah dicloning.
 6. Selanjutnya kita bisa mengedit file README.md yang ada pada File Explorer dengan menggunakan
    Text Editor (Sublime Text, Notepad, Notepad+++, Visual Studio Code).
 7. Setelah mengedit, pastikan hasil editan tersimpan.
 8. Langkah selanjutnya kembali membuka App GitBash dan masukan perintah
-   syntax: git add .
+   code: git add .
 9. Selanjutnya melakukan commit yang dimana fungsi commit adalah untuk menyimpan perubahan
    yang dilakukan, tetapi tidak terjadi perubahan pada remote repository.
-   Caranya masukan syntax : git commit -m "keterangan perubahan apa yang dilakukan".
+   Caranya masukan code: git commit -m "keterangan perubahan apa yang dilakukan".
 
 ![Gambar](gambar/12.png)
 
 10. Setelah git commit selesai, melakukan Git Push yang dimana berfungsi untuk mengirimkan
-   perubahan file yang telah dicommit ke remote repository. Caranya masukan syntax: git push
+   perubahan file yang telah dicommit ke remote repository. Caranya masukan code: git push
    
 ![Gambar](gambar/13.png)
 
