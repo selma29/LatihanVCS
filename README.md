@@ -59,7 +59,7 @@ Jika sudah berhasil regist, tampilannya akan seperti dibawah ini :
 5. Jika tampilannya seperti dibawah ini, artinya repository sudah berhasil
    dan kalian dapat membukanya pada tulisan README
 
-![Gambar](gambar/11.png)
+![Gambar](gambar/7.png)
 
    Jika ingin menulis sesuatu atau mengedit sebuah teks yang sudah ada sebelumnya
    pada lembar kerja, kalian bisa menekan gambar pensil seperti digambar diatas.
@@ -67,49 +67,45 @@ Jika sudah berhasil regist, tampilannya akan seperti dibawah ini :
 # Setelah repository selesai, selanjutnya cara me-remmote REPOSITORY pada GITBASH lokal
 1. Langkah pertama, salin URL git kita yang ada pada Github. Caranya pilih menu Code
 
-![Gambar](gambar/12.png)
+![Gambar](gambar/8.png)
 
 2. Setelah link URL git tercopy, selanjutnya buka File Explorer pada windows.
    Kemudian pilih folder mana yang akan kita pakai untuk
    mendownload Repository dari Github ke lokal.
 
-![Gambar](gambar/7.png)
+![Gambar](gambar/9.png)
 
 3. Kemudian klik kanan dan tekan perintah 'Git Bash Here'
 
-![Gambar](gambar/8.png)
+![Gambar](gambar/10.png)
 
 4. Setelahnya pop Up Command Promp (CMD) akan terbuka. Pada proses ini kita akan melakukan
    download file repository yang tadi dibuat, dengan menggunakan syntax : git clone "link URL Github"
 
-![Gambar](gambar/13.png)
+![Gambar](gambar/11.png)
 
 5. Setelah cloning selesai, masukan perintah syntax : cd '(nama folder yang tadi dicloning)/'
    untuk masuk kedalam folder yang telah dicloning.
 
-![Gambar](gambar/14.png)
+![Gambar](gambar/12.png)
 
 6. Selanjutnya kita bisa mengedit file README.md yang ada pada File Explorer dengan menggunakan
    Text Editor (Sublime Text, Notepad, Notepad+++, Visual Studio Code).
 7. Setelah mengedit, pastikan hasil editan tersimpan.
 8. Langkah selanjutnya kembali membuka App GitBash dan masukan perintah
    syntax : 'git add .'
-
-![Gambar](gambar/15.png)
-
 9. Selanjutnya melakukan commit yang dimana fungsi commit adalah untuk menyimpan perubahan
    yang dilakukan, tetapi tidak terjadi perubahan pada remote repository.
-   Caranya masukan syntax : 'git commit "keterangan perubahan apa yang dilakukan"'.
-
-![Gambar](gambar/16.png)
-
+   Caranya masukan syntax : 'git commit -m "keterangan perubahan apa yang dilakukan"'.
 10. Setelah git commit selesai, melakukan Git Push yang dimana berfungsi untuk mengirimkan
    perubahan file yang telah dicommit ke remote repository. Caranya masukan syntax : 'git push'
    
-![Gambar](gambar/17.png)
+![Gambar](gambar/13.png)
 
-JIKA SEMUA PROSES DIATAS SUDAH DILAKUKAN SEMUA TANPA ADA YANG TERLEWAT,
-KALIAN BISA LANGSUNG MELIHAT PERUBAHAN REPOSITORY DENGAN MEMBUKANYA
-PADA LAMAN GITHUB. SEKIAN & SELAMAT MENCOBA :)
+11. Jika semua langkah-langkah sudah dilakukan tanpa ada yang terlewat
+Kalian bisa langsung melihat perubahan repository dengan membukanya
+pada laman github.
 
--DONE-
+![Gambar](gambar/14.png)
+
+ SEKIAN & SELAMAT MENCOBA :)
