@@ -89,9 +89,6 @@ Jika sudah berhasil regist, tampilannya akan seperti dibawah ini :
 
 5. Setelah cloning selesai, masukan perintah syntax : cd (nama folder yang tadi dicloning)/
    untuk masuk kedalam folder yang telah dicloning.
-
-![Gambar](gambar/12.png)
-
 6. Selanjutnya kita bisa mengedit file README.md yang ada pada File Explorer dengan menggunakan
    Text Editor (Sublime Text, Notepad, Notepad+++, Visual Studio Code).
 7. Setelah mengedit, pastikan hasil editan tersimpan.
@@ -100,6 +97,9 @@ Jika sudah berhasil regist, tampilannya akan seperti dibawah ini :
 9. Selanjutnya melakukan commit yang dimana fungsi commit adalah untuk menyimpan perubahan
    yang dilakukan, tetapi tidak terjadi perubahan pada remote repository.
    Caranya masukan syntax : git commit -m "keterangan perubahan apa yang dilakukan".
+
+![Gambar](gambar/12.png)
+
 10. Setelah git commit selesai, melakukan Git Push yang dimana berfungsi untuk mengirimkan
    perubahan file yang telah dicommit ke remote repository. Caranya masukan syntax: git push
    
