@@ -1,4 +1,4 @@
-# Latihan VSC
+# Latihan VCS
 ## Tugas Pertemuan Ke 4
 
 Nama : Selma Ohoira
