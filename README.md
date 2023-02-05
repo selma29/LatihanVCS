@@ -104,7 +104,8 @@ Jika sudah berhasil regist, tampilannya akan seperti dibawah ini :
 ![Gambar](gambar/12.png)
 
 10. Setelah git commit selesai, melakukan Git Push yang dimana berfungsi untuk mengirimkan
-   perubahan file yang telah dicommit ke remote repository. Caranya masukan code: git push
+   perubahan file yang telah dicommit ke remote repository. Caranya masukan syntax:
+      git push
    
 ![Gambar](gambar/13.png)
 
