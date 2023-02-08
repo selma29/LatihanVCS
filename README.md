@@ -73,7 +73,7 @@ Jika sudah berhasil regist, tampilannya akan seperti dibawah ini :
    Jika ingin menulis sesuatu atau mengedit sebuah teks yang sudah ada sebelumnya
    pada lembar kerja, kalian bisa menekan gambar pensil seperti digambar diatas.
    Dan tekan commit changes untuk menyimpan perubahan pada lembar kerja.
-# Setelah repository selesai, selanjutnya cara me-remmote REPOSITORY pada GITBASH lokal
+## Setelah repository selesai, selanjutnya cara me-remmote REPOSITORY pada GITBASH lokal
 1. Langkah pertama, salin URL git kita yang ada pada Github. Caranya pilih menu Code
 
 ![Gambar](gambar/8.png)
@@ -91,6 +91,7 @@ Jika sudah berhasil regist, tampilannya akan seperti dibawah ini :
 
 4. Setelahnya pop Up Command Promp (CMD) akan terbuka. Pada proses ini kita akan melakukan
    download file repository yang tadi dibuat, dengan masukan syntax:
+
       git clone "link URL Repository Github"
 
 ![Gambar](gambar/11.png)
@@ -101,16 +102,20 @@ Jika sudah berhasil regist, tampilannya akan seperti dibawah ini :
    Text Editor (Sublime Text, Notepad, Notepad+++, Visual Studio Code).
 7. Setelah mengedit, pastikan hasil editan tersimpan.
 8. Langkah selanjutnya kembali membuka App GitBash dan masukan syntax:
+
       git add .
+
 9. Selanjutnya melakukan commit yang dimana fungsi commit adalah untuk menyimpan perubahan
    yang dilakukan, tetapi tidak terjadi perubahan pada remote repository.
    Caranya masukan syntax:
+
       git commit -m "keterangan perubahan apa yang dilakukan".
 
 ![Gambar](gambar/12.png)
 
 10. Setelah git commit selesai, melakukan Git Push yang dimana berfungsi untuk mengirimkan
    perubahan file yang telah dicommit ke remote repository. Caranya masukan syntax:
+   
       git push
    
 ![Gambar](gambar/13.png)
