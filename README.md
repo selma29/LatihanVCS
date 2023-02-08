@@ -1,15 +1,15 @@
 # Latihan VCS
 ## Tugas Pertemuan Ke 4
 
-Nama : Selma Ohoira
+Nama        : Selma Ohoira
 
-NIM : 312210727
+NIM         : 312210727
 
-Kelas : TI.22.C9
+Kelas       : TI.22.C9
 
 Mata Kuliah : Bahasa Pemograman
 
-# LANGKAH AWAL MENGGUNAKAN GIT
+## LANGKAH AWAL MENGGUNAKAN GIT
 ## CARA MENDOWNLOAD GIT
 1. Langkah pertama yaitu dengan mendownload git.
    Bukalah situs resmi dari git itu sendiri yaitu git-scm.com
@@ -21,7 +21,7 @@ Mata Kuliah : Bahasa Pemograman
 
  ![Gambar](gambar/1.png)
 
-3. Setelah instalisasi terbuka, bisa langsung membuka command prompt
+3. Setelah instalisasi selesai dan terbuka, bisa langsung membuka command prompt
    pada menu windows dan melakukan pengecekan versi dari git kalian
    dengan masukan syntax:
       git --version
@@ -39,9 +39,14 @@ Masukan email dan username
 ![Gambar](gambar/15.png)
 
 ## LANGKAH AWAL MENGGUNAKAN GITHUB
-# Login akun Github
+## Login akun Github
+Note :
+
+      Github dan Git memiliki hubungan khusus, yaitu Git yang berperan sebagai version control system
+      dan Github menjadi hosting atau sebagai penyimpan kode pemrograman.
+
 1. Buka github pada situs resminya github.com
-2. Setelah itu pilih menu SignUp jika memang belum mempunyai akun.
+2. Pilih menu SignUp jika belum mempunyai akun.
 Jika sudah punya akun silahkan langsung SignIn.
 
 ![Gambar 4](gambar/4.png)
@@ -50,7 +55,7 @@ Jika sudah berhasil regist, tampilannya akan seperti dibawah ini :
 
 ![Gambar 5](gambar/5.png)
 
-# Langkah membuat REPOSITORY pada GITHUB
+## Langkah membuat REPOSITORY pada GITHUB
 1. LogIn akun github
 2. Kemudian pilih dibagian start a project,
    atau bisa juga dengan menekan lambang (+) pada pojok bagian kanan atas.
@@ -58,7 +63,7 @@ Jika sudah berhasil regist, tampilannya akan seperti dibawah ini :
 
 ![Gambar 6](gambar/6.png)
 
-4. Create judul yang diinginkan dan atur repository
+4. Create judul dan deskripsi yang diinginkan dan atur repository
    tersebut besifat privacy atau public.
 5. Jika tampilannya seperti dibawah ini, artinya repository sudah berhasil
    dan kalian dapat membukanya pada tulisan README.md
@@ -75,6 +80,7 @@ Jika sudah berhasil regist, tampilannya akan seperti dibawah ini :
 
 2. Setelah link URL git tercopy, selanjutnya buka File Explorer pada windows.
    Kemudian pilih folder mana yang akan kita pakai untuk
+   menyimpan update file repository yang dibuat, untuk selanjutnya
    mendownload Repository dari Github ke lokal.
 
 ![Gambar](gambar/9.png)
