@@ -42,8 +42,8 @@ Masukan email dan username
 ## Login akun Github
 Note :
 
-      Github dan Git memiliki hubungan khusus, yaitu Git yang berperan sebagai version control system
-      dan Github menjadi hosting atau sebagai penyimpan kode pemrograman.
+   Github dan Git memiliki hubungan khusus, yaitu Git yang berperan sebagai version control system
+   dan Github menjadi hosting atau sebagai penyimpan kode pemrograman.
 
 1. Buka github pada situs resminya github.com
 2. Pilih menu SignUp jika belum mempunyai akun.
